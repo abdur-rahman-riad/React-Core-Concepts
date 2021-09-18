@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-design{
+  width: 50%;
+  margin: 15px auto;
+  color: white;
+  background-color: teal;
+  padding: 5px 25px;
+  border-radius: 5px;
+}
+.list-item{
+  list-style: none;
+}
